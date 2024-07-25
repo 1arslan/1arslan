@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1arslan)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1arslan&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1arslan&layout=compact)
