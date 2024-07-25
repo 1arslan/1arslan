@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-## My GitHub Stats
+
+### My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1arslan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1arslan&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
