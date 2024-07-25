@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub followers](https://img.shields.io/github/followers/1arslan?style=social)
+![GitHub followers](https://img.shields.io/github/followers/1arslan?style=social&color=blue)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1arslan&color=blue)
 
