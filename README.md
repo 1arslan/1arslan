@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=C++,python,js,html,css,Node)](https://skillicons.dev)
 
 
 ### My GitHub Stats
