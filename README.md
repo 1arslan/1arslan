@@ -2,7 +2,7 @@
 
   Data Scientist...
 
-- 🔭 I’m currently working on an ML project
+- 🔭 I’m currently working on a ML project
 - 🌱 I’m currently learning advanced machine learning techniques and deep learning frameworks
 - 💬 Ask me about instance segmentation, YOLOv8, U-Net, and computer vision
 - 📫 How to reach me: arslanshabbir415@gmail.com
