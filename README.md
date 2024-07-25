@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ![GitHub followers](https://img.shields.io/github/followers/1arslan?style=social)
 
+![Profile Views](https://komarev.com/ghpvc/?username=1arslan&color=blue)
+
+
 
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=anaconda,python,aws,c,azure,d3,cpp,js,html,css,cs,pycharm,pytorch&perline=4)](https://skillicons.dev)
