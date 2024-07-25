@@ -2,6 +2,13 @@
 
   Data Scientist...
 
+- 🔭 I’m currently working on an ML project
+- 🌱 I’m currently learning advanced machine learning techniques and deep learning frameworks
+- 💬 Ask me about instance segmentation, YOLOv8, U-Net, and computer vision
+- 📫 How to reach me: arslanshabbir415@gmail.com
+- ⚡ Fun fact: I enjoy exploring new technologies and integrating them into practical applications
+
+
 <!--
 **1arslan/1arslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![GitHub followers](https://img.shields.io/github/followers/1arslan?style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1arslan&color=blue)
