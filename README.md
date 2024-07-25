@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,python,aws,c,azure,d3,cpp,js,html,css,cs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,python,aws,c,azure,d3,cpp,js,html,css,cs,pycharm,pytorch&perline=4)](https://skillicons.dev)
 
 
 ### My GitHub Stats
